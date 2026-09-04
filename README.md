@@ -13,7 +13,7 @@ and OWASP defenses. [Live Demo](https://secure-file-vault-3lon.onrender.com/docs
 
 - [SOC Threat Detection Dashboard](https://github.com/tejasvii1/soc-dashboard) — 
 Security monitoring system with MITRE ATT&CK mapping, anomaly detection, 
-and Discord alerts. [Live Demo]([your-render-url-here](https://soc-threat-detection-dashboard.onrender.com/))
+and Discord alerts. [Live Demo]([your-render-url-here](https://soc-threat-detection-dashboard.onrender.com/)
 
 ## Currently
 - Undergraduate researcher at Texas A&M UrbanResilience.AI Lab
