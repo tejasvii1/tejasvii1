@@ -11,7 +11,7 @@ information protection, and secure software development.
 FastAPI secure file storage with JWT auth, bcrypt, VirusTotal malware scanning, 
 and OWASP defenses. [Live Demo](https://secure-file-vault-3lon.onrender.com/docs)
 
-- [SOC Threat Detection Dashboard](https://github.com/tejasvii1/soc-dashboard) — 
+- [SOC Threat Detection Dashboard](https://github.com/tejasvii1/soc-threat-dashboard) — 
 Security monitoring system with MITRE ATT&CK mapping, anomaly detection, 
 and Discord alerts. [Live Demo](https://soc-threat-detection-dashboard.onrender.com/)
 
